@@ -77,7 +77,7 @@ python src/predict.py --input data/test_data.csv
 The Streamlit app provides a simple interface to input the required features and instantly view predictions.  
 
 Example screenshot of the app:  
-![App Screenshot](https://via.placeholder.com/500x300.png?text=Add+your+screenshot+here)  
+![App Screenshot](https://drive.google.com/file/d/1rW7qCpU-UxoQstJzp8UGgRDgBlyX_B5-/view?usp=sharing)  
 
 ### Example Output  
 Input via Streamlit or CLI:  
